@@ -1,0 +1,16 @@
+section{
+    padding: 40px 0;
+}
+.none{
+    display: none;
+}
+.products-wrap{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.item{
+    
+}
